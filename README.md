@@ -1,4 +1,4 @@
-# hindi-character-recognition
+# Hindi-character-recognition
 The folder should be downloaded as it is, and the  model file must be downloaded from the models folder from this link - https://drive.google.com/drive/folders/1obh5CUAfGqmBcdlAepBP4uUrE-KqWtcJ?usp=sharing. Save the model .h5 file in the environment folder.
 
 ## Dataset
